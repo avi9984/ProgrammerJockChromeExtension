@@ -1,0 +1,19 @@
+body {
+    width: 250px;
+    height: 200px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: inline-flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: black;
+    border-radius: 2px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+
+}
